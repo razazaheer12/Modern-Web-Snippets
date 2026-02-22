@@ -4,27 +4,27 @@ Welcome to my web development playground! This repository is a curated collectio
 ## 📂 Projects Gallery
 
 1. 💎 Modern Pricing Table
-Folder: /PricingTable
-Tech: HTML5, CSS3 (Flexbox, Media Queries)
-Status: ✅ Completed
+-Folder: /PricingTable
+-Tech: HTML5, CSS3 (Flexbox, Media Queries)
+-Status: ✅ Completed
 
 ## 🛠️ Built With
 HTML5: Semantic structure ke liye.
 
-CSS3: Custom animations, Flexbox, aur responsive layout ke liye.
+CSS3: Custom animations, Flexbox, and responsive layout
 
-Vanilla JS: (Upcoming) Logic aur interactivity ke liye.
+Vanilla JS: (Upcoming) For Logic and interactivity 
 
-Google Fonts: Poppins font ka istemal kiya gaya hai.
+Google Fonts: Poppins font 
 
 ## 🚀 How to Use
 Is repository ko clone karein:
 
 Bash
-git clone https://github.com/razazaheer12/Modern-Web-Snippets.git
-Kisi bhi project folder mein jayein (e.g., PricingTable).
+git clone https://github.com/razazaheer12/Modern-Web-Snippets.git 
+(e.g., PricingTable).
 
-index.html ko apne browser mein open karein.
+open index.html in your browser
 
 ## 👨‍💻 Author
 Raza Zaheer
