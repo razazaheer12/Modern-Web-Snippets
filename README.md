@@ -19,15 +19,15 @@ Welcome to my web development playground! This repository is a curated collectio
 - Google Fonts: Poppins font 
 
 ## 🚀 How to Use
+
 Bash
 git clone https://github.com/razazaheer12/Modern-Web-Snippets.git 
-(e.g., PricingTable).
-open index.html in your browser
+- open index.html in your browser
 
 ## 👨‍💻 Author
-Raza Zaheer
 
-GitHub: @razazaheer12
+- Raza Zaheer
+- GitHub: @razazaheer12
 
 Let's connect and build something awesome!
 
