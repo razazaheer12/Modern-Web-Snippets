@@ -4,9 +4,9 @@ Welcome to my web development playground! This repository is a curated collectio
 ## 📂 Projects Gallery
 
 1. 💎 Modern Pricing Table
--Folder: /PricingTable
--Tech: HTML5, CSS3 (Flexbox, Media Queries)
--Status: ✅ Completed
+- Folder: /PricingTable
+- Tech: HTML5, CSS3 (Flexbox, Media Queries)
+- Status: ✅ Completed
 
 ## 🛠️ Built With
 HTML5: Semantic structure ke liye.
