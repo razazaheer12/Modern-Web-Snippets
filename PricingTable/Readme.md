@@ -5,6 +5,9 @@ This project showcases a modern UI for subscription plans. It features a clean d
 
 <img width="959" height="431" alt="image" src="https://github.com/user-attachments/assets/54d663b1-8819-4cd4-a11b-831eca366983" />
 
+## 🚀 Live Demo
+
+Experience the app live: (https://pricing-card12.netlify.app/)
 
 ## ✨ Key Features
 Modern Dark UI: Deep background with contrasting card elements.
@@ -44,6 +47,7 @@ GitHub: @razazaheer12
 
 
 Portfolio: [Optional: Add your link here]
+
 
 
 
