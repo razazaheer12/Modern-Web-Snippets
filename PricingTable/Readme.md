@@ -4,7 +4,7 @@ Welcome to the first project of my Mini Web Projects series! This is a sleek, da
 🎨 Project Overview
 This project showcases a modern UI for subscription plans. It features a clean dark aesthetic, interactive hover effects (glow and lift), and is fully optimized for mobile, tablet, and desktop screens.
 
-✨ Key Features
+✨ #Key Features
 Modern Dark UI: Deep background with contrasting card elements.
 
 Glassmorphism Vibes: Subtle shadows and glowing hover effects.
@@ -38,5 +38,6 @@ Simply open index.html in any modern web browser.
 Raza Zaheer
 
 GitHub: @razazaheer12
+
 
 Portfolio: [Optional: Add your link here]
