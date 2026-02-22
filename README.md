@@ -9,21 +9,19 @@ Welcome to my web development playground! This repository is a curated collectio
 - Status: ✅ Completed
 
 ## 🛠️ Built With
-HTML5: Semantic structure ke liye.
 
-CSS3: Custom animations, Flexbox, and responsive layout
+- HTML5: Semantic structure ke liye.
 
-Vanilla JS: (Upcoming) For Logic and interactivity 
+- CSS3: Custom animations, Flexbox, and responsive layout
 
-Google Fonts: Poppins font 
+- Vanilla JS: (Upcoming) For Logic and interactivity 
+
+- Google Fonts: Poppins font 
 
 ## 🚀 How to Use
-Is repository ko clone karein:
-
 Bash
 git clone https://github.com/razazaheer12/Modern-Web-Snippets.git 
 (e.g., PricingTable).
-
 open index.html in your browser
 
 ## 👨‍💻 Author
