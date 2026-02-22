@@ -1,7 +1,7 @@
 🚀 Modern Pricing Table Section
 Welcome to the first project of my Mini Web Projects series! This is a sleek, dark-themed, and fully responsive Pricing Table Section built using pure HTML and CSS.
 
-🎨 Project Overview
+## 🎨 Project Overview
 This project showcases a modern UI for subscription plans. It features a clean dark aesthetic, interactive hover effects (glow and lift), and is fully optimized for mobile, tablet, and desktop screens.
 
 ✨ ## Key Features
@@ -15,7 +15,7 @@ Clean Typography: Uses the 'Poppins' font for a professional look.
 
 Pure CSS: No external frameworks or libraries used—just raw power of CSS3.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML5: Semantic structure.
 
 CSS3: Flexbox, Transitions, Media Queries, and Custom Shadows.
@@ -41,4 +41,5 @@ GitHub: @razazaheer12
 
 
 Portfolio: [Optional: Add your link here]
+
 
